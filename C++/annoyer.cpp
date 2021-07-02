@@ -1,5 +1,5 @@
 #include <iostream>
-//Includez iostream library
+//Includes iostream library
 using namespace std;
 //Std namespace
 
