@@ -11,4 +11,4 @@ while times!=0:
 	print(inp)
 	#Print the input string
 	times -= 1
-	#Times variable decrease by 1
+	#Times variable decremented by 1
